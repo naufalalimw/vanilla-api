@@ -27,6 +27,14 @@
 			"options": {
 				"cwd": "${workspaceFolder}/api"
 			}
+		},
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "api/",
+			"problemMatcher": [],
+			"label": "npm: start - api",
+			"detail": "func start"
 		}
 	]
 }
